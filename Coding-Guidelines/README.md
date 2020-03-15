@@ -1,4 +1,4 @@
-#Guidelines
+# Guidelines
 
 4 THINGS to keep in mind when submitting your final result:
 
