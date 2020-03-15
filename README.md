@@ -5,4 +5,5 @@ A collection of how to get some of the things done
 
 # How to submit your solutions:
 
-[Submitting Solutions](/Submitting-Solutions)
+- [Submitting Solutions](/Submitting-Solutions)
+- [Coding Guildelines] (/Coding-Guidelines)
